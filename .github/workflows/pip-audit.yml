@@ -1,3 +1,4 @@
+[![Scan dependencies for vulnerabilities with pip-audit](https://github.com/Wipada2540/bitcoin/actions/workflows/pip-audit.yml/badge.svg?branch=master&event=deployment)](https://github.com/Wipada2540/bitcoin/actions/workflows/pip-audit.yml)
 # IMPORTANT: Read and understand this template fully before applying it.
 
 name: Scan dependencies for vulnerabilities with pip-audit
